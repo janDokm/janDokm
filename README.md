@@ -46,7 +46,7 @@ I'm looking for a **6-month industrial training placement, September 2026 – Fe
 ### 🌷 GitHub Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janDokm&theme=radical&hide_border=true&background=FFF0F5&ring=D67AB1&fire=D67AB1&currStreakLabel=D67AB1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janDokm&theme=radical&hide_border=true&background=FFF0F5&ring=D67AB1&fire=D67AB1&currStreakLabel=4A2545&currStreakNum=4A2545&sideLabels=4A2545&sideNums=4A2545&dates=8C6E88" />
 </div>
 
 ### 🌷 Featured Projects
